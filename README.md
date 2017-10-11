@@ -1,2 +1,1 @@
-# ADA
-applied data analysis
+# Applied Data Analysis Homeworks
