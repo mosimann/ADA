@@ -46,23 +46,23 @@ Datasets for enrichment:
 
 # A list of internal milestones up until project milestone 2
 
-## Week 1 (7 Nov)
+## Week 1 (7 Nov)
 
 * Get familiar with datasets and identify useful information.
 * Begin import and enrichment process.
 
-## Week 2 (14 Nov)
+## Week 2 (14 Nov)
 
 * Complete enrichment process.
 * Run graph analysis algorithms on patents graph (e.g., connected components, triangles, neighborhood function).
 * Explore various aggregations and trends in the data.
 
-## Week 3 (21 Nov)
+## Week 3 (21 Nov)
 
 * Identify some areas, companies, topics of interest.
 * Collect additional data to use for analysis and correlation, e.g., product launches, historical stock prices of companies of interest, total market values of identified areas.
 
-## Week 4 (28 Nov)
+## Week 4 (28 Nov)
 
 * Combine datasets.
 * Analyze and correlate.
