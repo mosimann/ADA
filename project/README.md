@@ -2,7 +2,7 @@
 
 # Abstract
 
-Protecting intellectual property through patents is a cornerstone of Western innovation. Yet, there is no global consensus on whether patents promote or stall innovation. In particular, does innovation lead to patents or do patents lead to innovation? In this project, we propose to observe how patent applications predict technological trends, new markets, and products. We build a graph data by combining a patent citations dataset and associated metadata. We explore the resulting graph to extract key insight into major innovation trends. We then dig deeper into select markets and companies to correlate patent activity with events such as product launches or company creation as well as financial indicators such as historical stock prices and total market value.
+Protecting intellectual property through patents is a cornerstone of Western innovation. Yet, there is no global consensus on whether patents promote or stall innovation. In particular, does innovation lead to patents or do patents lead to innovation? In this project, we propose to observe how patent applications predict technological trends, new markets, and products. We build a graph database by combining a patent citations dataset and associated metadata. We then explore the resulting graph to extract key insight into major innovation trends. Finally, we dig deeper into select markets and companies to correlate patent activity with events such as product launches or company creation as well as financial indicators such as historical stock prices and total market value.
 
 # Research questions
 * What are the major innovation trends?
