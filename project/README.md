@@ -45,10 +45,29 @@ Datasets for enrichment:
 3. (optional -- depending on time) Derive other representations of the data. For instance, compute the connected components graph, link patents based on content (abstract), compute a bipartite graph with academic papers, create a temporal graph for patents.
 
 # A list of internal milestones up until project milestone 2
-1. Due to 7.11: Understand the dataset and identify useful information 
-2. Due to 14.11: Create categories and sort patents according to them. This will allow us to identify the patent activity in particular areas. 
-3. Due to 21.11: Collect data on product launches and economy of enterprise
-4. Due to 28.11: Link the patent dataset with the information about companies
+
+## Week 1 (7 Nov)
+
+* Get familiar with datasets and identify useful information.
+* Begin import and enrichment process.
+
+## Week 2 (14 Nov)
+
+* Complete enrichment process.
+* Run graph analysis algorithms on patents graph (e.g., connected components, triangles, neighborhood function).
+* Explore various aggregations and trends in the data.
+
+## Week 3 (21 Nov)
+
+* Identify some areas, companies, topics of interest.
+* Collect additional data to use for analysis and correlation, e.g., product launches, historical stock prices of companies of interest, total market values of identified areas.
+
+## Week 4 (28 Nov)
+
+* Combine datasets.
+* Analyze and correlate.
+* Determine preliminary answers to research questions.
 
 # Questions for TAs
-Add here some questions you have for us, in general or project-specific.
+
+* Can you suggest a good dataset of product launches? We can manually gather some information (e.g., using Wikipedia), but it would help make our analysis as broad as possible to have a "pre-made" dataset.
