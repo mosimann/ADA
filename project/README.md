@@ -45,7 +45,10 @@ Datasets for enrichment:
 3. (optional -- depending on time) Derive other representations of the data. For instance, compute the connected components graph, link patents based on content (abstract), compute a bipartite graph with academic papers, create a temporal graph for patents.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+1. Due to 7.11: Understand the dataset and identify useful information 
+2. Due to 14.11: Create categories and sort patents according to them. This will allow us to identify the patent activity in particular areas. 
+3. Due to 21.11: Collect data on product launches and economy of enterprise
+4. Due to 28.11: Link the patent dataset with the information about companies
 
 # Questions for TAs
 Add here some questions you have for us, in general or project-specific.
