@@ -5,9 +5,9 @@
 Protecting intellectual property through patents is a cornerstone of Western innovation. Yet, there is no global consensus on whether patents promote or stall innovation, and whether that innovation is in turn rewarded by markets. In this project, we propose to observe how companies applying for and being granted patents relates to their market capitalization and earnings. We build a graph database by combining a patent citations dataset and associated metadata. We then explore the resulting dataset to extract insight into companies' valuations in relation to their patent portfolio. Finally, we dig deeper into select companies to correlate patent activity with earnings and financial indicators such as stock prices.
 
 # Research questions
-* What are the major patent holders? Are these highly valued companies?
-* Is there a relation between companies' valuation and number of patents in their portfolios?
-* Are there key patents (i.e. influential patents) which significantly impacted market capitalization?
+* Who are the major patent holders? Are they highly valued companies?
+* Is there a relation between companies' valuations and number of patents in their portfolios?
+* Are there key patents (i.e. influential patents) which significantly impact market capitalization?
 * Can patent-related events (e.g., the granting of a patent) influence earnings and share prices?
 
 # Dataset
