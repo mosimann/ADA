@@ -24,6 +24,7 @@ Extra datasets:
 * http://www.nber.org/patents/
 * http://etfdb.com/history-of-the-s-and-p-500/
 * https://wrds-web.wharton.upenn.edu/wrds/
+* https://finance.yahoo.com/
 * Wikipedia (manual)
 
 ## Data Wrangling
